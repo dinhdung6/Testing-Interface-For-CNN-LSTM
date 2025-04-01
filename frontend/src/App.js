@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const API_URL = "https://testing-interface-for-cnn-lstm-1.onrender.com";
+const API_URL = "https://testing-interface-for-cnn-lstm-2.onrender.com";
 
 function App() {
     const [model, setModel] = useState("LSTM");
